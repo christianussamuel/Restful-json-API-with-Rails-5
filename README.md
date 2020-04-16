@@ -5,3 +5,6 @@
  add this line on your config/database.yml
  
  ![database.yml](https://github.com/christianussamuel/Restful-json-API-with-Rails-5/blob/master/image.png)
+ 
+ change the default gem'sqlite3'
+into __gem'pg'__
