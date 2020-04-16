@@ -7,4 +7,4 @@
  ![database.yml](https://github.com/christianussamuel/Restful-json-API-with-Rails-5/blob/master/image.png)
  
  change the default gem'sqlite3'
-into __gem'pg'__
+into __gem'pg'__ on your Gemfile
